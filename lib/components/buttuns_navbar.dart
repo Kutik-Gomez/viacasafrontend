@@ -52,7 +52,7 @@ class _ButtonsNavBarState extends State<ButtonsNavBarPage> {
               },
               items: const [
                 BottomNavigationBarItem(
-                    icon: FaIcon(FontAwesomeIcons.house), label: 'Home'),
+                    icon: FaIcon(FontAwesomeIcons.house), label: 'Inicio'),
                 BottomNavigationBarItem(
                     icon: FaIcon(FontAwesomeIcons.carSide), label: 'Viajes'),
                 BottomNavigationBarItem(
